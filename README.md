@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning PHP, Python & Node.js
 - 💞️ I’m looking to collaborate on any projects.
-- 📫 Reach me on Discord: Benji#1652
+- 📫 Reach me on Discord: @hibenji
 
 Coding time (Since August 2022):
 
