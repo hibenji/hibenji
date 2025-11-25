@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hibenji
-- 👀 I’m interested in Web development
+- 👀 I’m interested in Web development and System administration
 - 🌱 I’m currently learning PHP, Python & Node.js
 - 💞️ I’m looking to collaborate on any projects.
 - 📫 Reach me on Discord: @hibenji
